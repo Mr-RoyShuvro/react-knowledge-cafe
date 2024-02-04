@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/zXbypR9/1.jpg",
+      "title": "The Enigmatic Chronicles",
+      "author": "Penelope Quill",
+      "author_img": "https://i.ibb.co/hgszwHj/profile.png",
+      "posted_date": "2024-02-04",
+      "reading_times": 238,
+      "hashtags": ["#Mystery", "#Adventure", "#Enigma"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.ibb.co/pRkZZ7f/2.jpg",
+      "title": "Whimsical Wanderlust",
+      "author": "Jasper Dreamweaver",
+      "author_img": "https://i.ibb.co/GPdV368/b.jpg",
+      "posted_date": "2024-02-03",
+      "reading_times": 156,
+      "hashtags": ["#Fantasy", "#Travel", "#Dreamscape"]
+    },
+    {
+      "id": 54321,
+      "cover": "https://i.ibb.co/2KW7XRr/3.jpg",
+      "title": "Quantum Quotient",
+      "author": "Aria Quantum",
+      "author_img": "https://i.ibb.co/CvCdfPK/c.jpg",
+      "posted_date": "2024-02-02",
+      "reading_times": 421,
+      "hashtags": ["#SciFi", "#Quantum", "#Philosophy"]
+    },
+    {
+      "id": 98765,
+      "cover": "https://i.ibb.co/L5D63fL/4.jpg",
+      "title": "Culinary Concoctions",
+      "author": "Chef Gustavo Spice",
+      "author_img": "https://i.ibb.co/CvCdfPK/c.jpg",
+      "posted_date": "2024-02-01",
+      "reading_times": 312,
+      "hashtags": ["#Cooking", "#Gourmet", "#SpiceJourney"]
+    },
+    {
+      "id": 24680,
+      "cover": "https://i.ibb.co/v1NKkL0/5.jpg",
+      "title": "Celestial Serenade",
+      "author": "Luna Starlight",
+      "author_img": "https://i.ibb.co/2WLp0Kv/e.jpg",
+      "posted_date": "2024-01-31",
+      "reading_times": 543,
+      "hashtags": ["#Poetry", "#Stars", "#Reflections"]
+    }
+  ]
+  
