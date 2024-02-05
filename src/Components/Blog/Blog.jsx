@@ -10,7 +10,7 @@ const Blog = ({blog, handleAddToBookmark, handleReadingTime}) => {
                 <div className='flex gap-6'>
                     <img className='w-14 h-14 rounded-full' src={author_img} alt="" />
                     <div>
-                        <h3 className='text-2xl'>{author}</h3>
+                        <h3 className='text-2xl font-semibold'>{author}</h3>
                         <p>{posted_date}</p>
                     </div>
                 </div>
@@ -19,7 +19,7 @@ const Blog = ({blog, handleAddToBookmark, handleReadingTime}) => {
                     <button onClick={() => handleAddToBookmark(blog)} className='ml-2 text-red-800 text-2xl'><FaRegBookmark></FaRegBookmark></button>
                 </div>
             </div>
-            <h2 className="text-3xl mb-4">Title: {title}</h2>
+            <h2 className="text-4xl font-extrabold mb-4">{title}</h2>
             <p>
                 {
                     hashtags.map((hash, idx) => <span key={idx}><a href="https://www.w3schools.com/"> {hash}</a></span>)

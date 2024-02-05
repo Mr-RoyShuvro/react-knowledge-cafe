@@ -14,8 +14,8 @@ const Blogs = ({handleAddToBookmark, handleReadingTime}) => {
     },[])
 
     return (
-        <div className="md:w-2/3">
-            <h3 className="text-3xl">Blogs:{blogs.length}</h3>
+        <div className="md:w-2/3 mt-5">
+            {/* <h3 className="text-3xl">Blogs:{blogs.length}</h3> */}
             {
                 blogs.map(blog => <Blog 
                     handleReadingTime = {handleReadingTime}

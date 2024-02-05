@@ -2,27 +2,27 @@
     {
       "id": 12345,
       "cover": "https://i.ibb.co/zXbypR9/1.jpg",
-      "title": "The Enigmatic Chronicles",
+      "title": "The Pragmatic Programmer",
       "author": "Penelope Quill",
       "author_img": "https://i.ibb.co/hgszwHj/profile.png",
       "posted_date": "2024-02-04",
       "reading_times": 10,
-      "hashtags": ["#Mystery", "#Adventure", "#Enigma"]
+      "hashtags": ["#Programming", "#Adventure", "#Enigma"]
     },
     {
       "id": 67890,
       "cover": "https://i.ibb.co/pRkZZ7f/2.jpg",
-      "title": "Whimsical Wanderlust",
+      "title": "Structure and Interpretation of Computer Programs",
       "author": "Jasper Dreamweaver",
       "author_img": "https://i.ibb.co/GPdV368/b.jpg",
       "posted_date": "2024-02-03",
       "reading_times": 15,
-      "hashtags": ["#Fantasy", "#Travel", "#Dreamscape"]
+      "hashtags": ["#Fantasy", "#Coding", "#Dream_scape"]
     },
     {
       "id": 54321,
       "cover": "https://i.ibb.co/2KW7XRr/3.jpg",
-      "title": "Quantum Quotient",
+      "title": "Artificial Intelligence: A Modern Approach",
       "author": "Aria Quantum",
       "author_img": "https://i.ibb.co/CvCdfPK/c.jpg",
       "posted_date": "2024-02-02",
@@ -32,7 +32,7 @@
     {
       "id": 98765,
       "cover": "https://i.ibb.co/L5D63fL/4.jpg",
-      "title": "Culinary Concoctions",
+      "title": "Introduction to the Theory of Computation",
       "author": "Chef Gustavo Spice",
       "author_img": "https://i.ibb.co/CvCdfPK/c.jpg",
       "posted_date": "2024-02-01",
@@ -42,7 +42,7 @@
     {
       "id": 24680,
       "cover": "https://i.ibb.co/v1NKkL0/5.jpg",
-      "title": "Celestial Serenade",
+      "title": "Coders at Work: Reflections on the Craft of Programming",
       "author": "Luna Starlight",
       "author_img": "https://i.ibb.co/2WLp0Kv/e.jpg",
       "posted_date": "2024-01-31",
